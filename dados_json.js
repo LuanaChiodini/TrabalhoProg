@@ -37,7 +37,7 @@
 																"descricao" : "Lida com conceitos imaginários, relacionados a tecnologia e ao futuro."
 															},
 												"editora" : {
-																"id_editora" : 1
+																"id_editora" : 1,
 																"nome" : "Arqueiro",
 																"endereco" : "Rua Funchal, SP",
 																"telefone" : "(11)3868-4492"
